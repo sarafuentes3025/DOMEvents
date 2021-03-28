@@ -18,7 +18,7 @@ function showFortune(){
   button.innerHTML = 'Come back tomorrow!';
   button.style.cursor = 'default';
 
-  //add your code here
+  //-------
   button.removeEventListener('click', showFortune);
 }
 
