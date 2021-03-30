@@ -15,7 +15,7 @@ let reset = function() {
 };
 resetButton.onclick = reset;
 
-// Write your code here
+// Events
 function increaseWidth(){
   itemOne.style.width = '500px';
 }
